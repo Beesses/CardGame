@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc32ef58831e7f45875aae28f77b9b6, type: 3}
+  m_Name: Warcraft
+  m_EditorClassIdentifier: 
+  CardEnum:
+    Health: 4
+    Damage: 2
+    Prefab: {fileID: 695394752990775029, guid: 85da4af1ed384d64db5c947e53f55dd0, type: 3}
+    Sprite: {fileID: 21300000, guid: 4f34f906113926642a6601e4ec95e720, type: 3}
+    Discription: Set on field war and craft
+    MainController: {fileID: 0}
+    SpawnPlace: {fileID: 0}
